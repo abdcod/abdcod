@@ -33,8 +33,6 @@
 ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
-##### For cooperation write on my telegram: @abdulman
-
 <h2> Github Stats </h2> 
 <a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdcod&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdcod&theme=tokyonight" alt="abdcod" />
