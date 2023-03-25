@@ -27,7 +27,6 @@
 
 
 
-
 ### My favorite resources:
 
 ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
