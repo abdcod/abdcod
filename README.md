@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![REST API](https://img.shields.io/badge/-API-141130?style=for-the-badge&logo=inkscape)
+![API](https://img.shields.io/badge/-REST_API-141130?style=for-the-badge&logo=inkscape)
 ![REACT-DND](https://img.shields.io/badge/-REACT_DND-511130?style=for-the-badge&logo=dropbox)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e54c21?style=for-the-badge&logo=HTML5&logoColor=white)
