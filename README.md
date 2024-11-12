@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Timur, React-developer!
+### 👋 Hi there, I'm Timur!
 
 ### Tech & Tools:
 
