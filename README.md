@@ -24,8 +24,11 @@
 ![NPM](https://img.shields.io/badge/-NPM-141199?style=for-the-badge&logo=Npm)
 ![YARN](https://img.shields.io/badge/-YARN-143330?style=for-the-badge&logo=Yarn)
 
-
-
+![WEBDRIVERIO](https://img.shields.io/badge/webdriverio-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![MOCHA](https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![CUCUMBER](https://img.shields.io/badge/cucumber-81E16C?style=for-the-badge&logo=cucumber&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### My favorite resources:
 
