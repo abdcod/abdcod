@@ -31,6 +31,8 @@
 
 ![FREECODECAMP](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![CODEWARS](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)
+![LEARN.JAVASCRIPT](https://img.shields.io/badge/learnjavascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 <h2> Github Stats </h2> 
 <a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdcod&layout=compact&theme=tokyonight" /></a>
